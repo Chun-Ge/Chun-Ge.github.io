@@ -8,12 +8,6 @@ title: Chun-Ge's Github Page
 description: > # this means to ignore newlines until next config entry
   Organization Blog of Chun-Ge, for SYSU-SSAD Course Project
 
-# Author Settings
-author: Chun-Ge # add your name
-about-author: Believe ChunGe and you will get a eternity life # add description
-social-github: Chun-Ge # add your Github handle
-social-email: sysu.chunge@gmail.com # add your Email address
-
 encoding: utf-8
 
 permalink: ':title/'
